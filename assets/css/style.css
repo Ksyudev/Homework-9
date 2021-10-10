@@ -1,0 +1,29 @@
+img {
+    width: 150px;
+    height: 150px;
+    }
+.name {
+    width: 30%;
+}
+.menu {
+    width: 70%;
+}
+.card {
+    flex-direction: row;
+    align-items: center;
+}
+
+/*.menu>.row>.col-4>.card{
+    flex-direction: row;
+    align-items: center;
+}
+.menu>.row>.col-12>.info>.card{
+    flex-direction: row;
+    align-items: center;
+}*/
+.card-body {
+    text-align: center;
+}
+.info>.card>.card-body {
+    text-align: justify;
+}
