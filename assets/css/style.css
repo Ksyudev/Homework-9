@@ -12,15 +12,6 @@ img {
     flex-direction: row;
     align-items: center;
 }
-
-/*.menu>.row>.col-4>.card{
-    flex-direction: row;
-    align-items: center;
-}
-.menu>.row>.col-12>.info>.card{
-    flex-direction: row;
-    align-items: center;
-}*/
 .card-body {
     text-align: center;
 }
